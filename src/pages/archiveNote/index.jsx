@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { addActiveNote, deleteArchiveNote, getArchiveNotes } from "../../utils";
 import SearchBar from "../../components/searchBar";
 import { useNavigate, useSearchParams } from "react-router-dom";

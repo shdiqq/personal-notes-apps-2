@@ -1,4 +1,3 @@
-import React from "react";
 import { addActiveNote } from "../../utils";
 import CreateNote from "../../contents/dashboard/createNote";
 import { useNavigate } from "react-router-dom";
