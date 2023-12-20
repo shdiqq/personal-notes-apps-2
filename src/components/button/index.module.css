@@ -1,0 +1,12 @@
+.button {
+  width: 100%;
+  padding: 0.5em 1.5em;
+  cursor: pointer;
+  border: none;
+  background-color: transparent;
+  transition: all 0.35s;
+}
+
+.button:hover {
+  background-color: rgb(0, 255, 0, 0.1);
+}
